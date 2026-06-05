@@ -1,0 +1,2928 @@
+{
+  "axes": [
+    "water_coast",
+    "green_wild",
+    "civic_power",
+    "commerce",
+    "danger_death",
+    "festivity_disguise"
+  ],
+  "plays": [
+    {
+      "title": "The Comedy of Errors",
+      "csv_name": "A Comedy of Errors",
+      "one_line": "Port-city farce of shipwrecked twins, merchants, and mistaken identity.",
+      "scores": {
+        "water_coast": 0.7,
+        "green_wild": 0.1,
+        "civic_power": 0.4,
+        "commerce": 0.7,
+        "danger_death": 0.4,
+        "festivity_disguise": 0.9
+      },
+      "quote": {
+        "quote": "Small cheer and great welcome makes a merry feast.",
+        "speaker": "BALTHAZAR",
+        "act_scene": "3.1.33",
+        "why": "A merry feast for a dense food-and-drink district."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0402",
+            "name": "Hell's Kitchen",
+            "borough": "Manhattan",
+            "distance": 0.1979,
+            "confidence": 1.0,
+            "one_line": "Manhattan nightlife/festive area \u2014 4318m shore, 2% park, 50% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0402",
+              "name": "Hell's Kitchen",
+              "borough": "Manhattan",
+              "distance": 0.1979
+            },
+            {
+              "nta2020": "MN0203",
+              "name": "West Village",
+              "borough": "Manhattan",
+              "distance": 0.3606
+            },
+            {
+              "nta2020": "MN0302",
+              "name": "Lower East Side",
+              "borough": "Manhattan",
+              "distance": 0.5667
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0402",
+            "name": "Hell's Kitchen",
+            "borough": "Manhattan",
+            "distance": 0.1979,
+            "confidence": 1.0,
+            "one_line": "Manhattan nightlife/festive area \u2014 4318m shore, 2% park, 50% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0402",
+              "name": "Hell's Kitchen",
+              "borough": "Manhattan",
+              "distance": 0.1979
+            },
+            {
+              "nta2020": "MN0203",
+              "name": "West Village",
+              "borough": "Manhattan",
+              "distance": 0.3606
+            },
+            {
+              "nta2020": "MN0302",
+              "name": "Lower East Side",
+              "borough": "Manhattan",
+              "distance": 0.5667
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "A Midsummer Night's Dream",
+      "csv_name": "A Midsummer nights dream",
+      "one_line": "Enchanted forest of lovers, fairies, and midsummer transformation.",
+      "scores": {
+        "water_coast": 0.1,
+        "green_wild": 1.0,
+        "civic_power": 0.4,
+        "commerce": 0.05,
+        "danger_death": 0.2,
+        "festivity_disguise": 0.9
+      },
+      "quote": {
+        "quote": "I know a bank where the wild thyme blows,",
+        "speaker": "OBERON",
+        "act_scene": "2.1.254",
+        "why": "Wild greenery for an uninhabited forest island."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BX0291",
+            "name": "North & South Brother Islands",
+            "borough": "Bronx",
+            "distance": 0.6477,
+            "confidence": 1.0,
+            "one_line": "Bronx green/parkland area \u2014 1228m shore, 98% park, 30% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BX0291",
+              "name": "North & South Brother Islands",
+              "borough": "Bronx",
+              "distance": 0.6477
+            },
+            {
+              "nta2020": "SI9591",
+              "name": "Hoffman & Swinburne Islands",
+              "borough": "Staten Island",
+              "distance": 0.689
+            },
+            {
+              "nta2020": "QN1091",
+              "name": "Spring Creek Park",
+              "borough": "Queens",
+              "distance": 0.7167
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BX0291",
+            "name": "North & South Brother Islands",
+            "borough": "Bronx",
+            "distance": 0.6477,
+            "confidence": 1.0,
+            "one_line": "Bronx green/parkland area \u2014 1228m shore, 98% park, 30% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BX0291",
+              "name": "North & South Brother Islands",
+              "borough": "Bronx",
+              "distance": 0.6477
+            },
+            {
+              "nta2020": "SI9591",
+              "name": "Hoffman & Swinburne Islands",
+              "borough": "Staten Island",
+              "distance": 0.689
+            },
+            {
+              "nta2020": "QN1091",
+              "name": "Spring Creek Park",
+              "borough": "Queens",
+              "distance": 0.7167
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "The Winter's Tale",
+      "csv_name": "A Winters Tale",
+      "one_line": "Jealous king, then a pastoral festival and a coast-of-Bohemia rebirth.",
+      "scores": {
+        "water_coast": 0.4,
+        "green_wild": 0.7,
+        "civic_power": 0.6,
+        "commerce": 0.3,
+        "danger_death": 0.5,
+        "festivity_disguise": 0.8
+      },
+      "quote": {
+        "quote": "Would sing her song and dance her turn, now here,",
+        "speaker": "Shepherd",
+        "act_scene": "4.4.67",
+        "why": "Festival song and dance for a lively riverfront quarter."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK0202",
+            "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+            "borough": "Brooklyn",
+            "distance": 0.6318,
+            "confidence": 1.0,
+            "one_line": "Brooklyn civic/institutional area \u2014 1675m shore, 8% park, 17% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.6318
+            },
+            {
+              "nta2020": "QN1091",
+              "name": "Spring Creek Park",
+              "borough": "Queens",
+              "distance": 0.6477
+            },
+            {
+              "nta2020": "QN0761",
+              "name": "Fort Totten",
+              "borough": "Queens",
+              "distance": 0.6633
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "QN1091",
+            "name": "Spring Creek Park",
+            "borough": "Queens",
+            "distance": 0.6477,
+            "confidence": 1.0,
+            "one_line": "Queens green/parkland area \u2014 2892m shore, 2% park, 34% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.6318
+            },
+            {
+              "nta2020": "QN1091",
+              "name": "Spring Creek Park",
+              "borough": "Queens",
+              "distance": 0.6477
+            },
+            {
+              "nta2020": "QN0761",
+              "name": "Fort Totten",
+              "borough": "Queens",
+              "distance": 0.6633
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "All's Well That Ends Well",
+      "csv_name": "Alls well that ends well",
+      "one_line": "Court intrigue and a bed-trick to win an unwilling husband.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 0.1,
+        "civic_power": 0.6,
+        "commerce": 0.2,
+        "danger_death": 0.4,
+        "festivity_disguise": 0.7
+      },
+      "quote": {
+        "quote": "But one to dance with! By heaven, I'll steal away.",
+        "speaker": "BERTRAM",
+        "act_scene": "2.1.36",
+        "why": "Reluctant courtly revels in a bustling downtown."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK0202",
+            "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+            "borough": "Brooklyn",
+            "distance": 0.3999,
+            "confidence": 0.846,
+            "one_line": "Brooklyn civic/institutional area \u2014 1675m shore, 8% park, 17% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.3999
+            },
+            {
+              "nta2020": "MN0202",
+              "name": "Greenwich Village",
+              "borough": "Manhattan",
+              "distance": 0.407
+            },
+            {
+              "nta2020": "MN0602",
+              "name": "Gramercy",
+              "borough": "Manhattan",
+              "distance": 0.4264
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0602",
+            "name": "Gramercy",
+            "borough": "Manhattan",
+            "distance": 0.4264,
+            "confidence": 0.791,
+            "one_line": "Manhattan nightlife/festive area \u2014 0m shore, 3% park, 48% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.3999
+            },
+            {
+              "nta2020": "MN0202",
+              "name": "Greenwich Village",
+              "borough": "Manhattan",
+              "distance": 0.407
+            },
+            {
+              "nta2020": "MN0602",
+              "name": "Gramercy",
+              "borough": "Manhattan",
+              "distance": 0.4264
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Antony and Cleopatra",
+      "csv_name": "Antony and Cleopatra",
+      "one_line": "Empire, a naval war, and the doomed Nile-and-Rome romance.",
+      "scores": {
+        "water_coast": 0.7,
+        "green_wild": 0.1,
+        "civic_power": 1.0,
+        "commerce": 0.2,
+        "danger_death": 0.8,
+        "festivity_disguise": 0.5
+      },
+      "quote": {
+        "quote": "Of the ranged empire fall! Here is my space.",
+        "speaker": "MARK ANTONY",
+        "act_scene": "1.1.37",
+        "why": "Imperial grandeur meets a waterfront civic gateway."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "SI0101",
+            "name": "St. George-New Brighton",
+            "borough": "Staten Island",
+            "distance": 0.7564,
+            "confidence": 1.0,
+            "one_line": "Staten Island waterfront area \u2014 3373m shore, 4% park, 15% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "SI0101",
+              "name": "St. George-New Brighton",
+              "borough": "Staten Island",
+              "distance": 0.7564
+            },
+            {
+              "nta2020": "MN0801",
+              "name": "Upper East Side-Lenox Hill-Roosevelt Island",
+              "borough": "Manhattan",
+              "distance": 0.8054
+            },
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.863
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "SI0101",
+            "name": "St. George-New Brighton",
+            "borough": "Staten Island",
+            "distance": 0.7564,
+            "confidence": 1.0,
+            "one_line": "Staten Island waterfront area \u2014 3373m shore, 4% park, 15% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "SI0101",
+              "name": "St. George-New Brighton",
+              "borough": "Staten Island",
+              "distance": 0.7564
+            },
+            {
+              "nta2020": "MN0801",
+              "name": "Upper East Side-Lenox Hill-Roosevelt Island",
+              "borough": "Manhattan",
+              "distance": 0.8054
+            },
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.863
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "As You Like It",
+      "csv_name": "As you like it",
+      "one_line": "Banished into the Forest of Arden, love and disguise bloom.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 1.0,
+        "civic_power": 0.4,
+        "commerce": 0.1,
+        "danger_death": 0.2,
+        "festivity_disguise": 0.9
+      },
+      "quote": {
+        "quote": "Upon the brook that brawls along this wood:",
+        "speaker": "First Lord",
+        "act_scene": "2.1.34",
+        "why": "A brawling brook and wild wood for a green island."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BX0291",
+            "name": "North & South Brother Islands",
+            "borough": "Bronx",
+            "distance": 0.6394,
+            "confidence": 1.0,
+            "one_line": "Bronx green/parkland area \u2014 1228m shore, 98% park, 30% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BX0291",
+              "name": "North & South Brother Islands",
+              "borough": "Bronx",
+              "distance": 0.6394
+            },
+            {
+              "nta2020": "SI9591",
+              "name": "Hoffman & Swinburne Islands",
+              "borough": "Staten Island",
+              "distance": 0.6697
+            },
+            {
+              "nta2020": "QN1091",
+              "name": "Spring Creek Park",
+              "borough": "Queens",
+              "distance": 0.7233
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "SI9591",
+            "name": "Hoffman & Swinburne Islands",
+            "borough": "Staten Island",
+            "distance": 0.6697,
+            "confidence": 1.0,
+            "one_line": "Staten Island green/parkland area \u2014 0m shore, 0% park, 28% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BX0291",
+              "name": "North & South Brother Islands",
+              "borough": "Bronx",
+              "distance": 0.6394
+            },
+            {
+              "nta2020": "SI9591",
+              "name": "Hoffman & Swinburne Islands",
+              "borough": "Staten Island",
+              "distance": 0.6697
+            },
+            {
+              "nta2020": "QN1091",
+              "name": "Spring Creek Park",
+              "borough": "Queens",
+              "distance": 0.7233
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Coriolanus",
+      "csv_name": "Coriolanus",
+      "one_line": "Roman war hero undone by senate, mob, and his own pride.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 0.05,
+        "civic_power": 1.0,
+        "commerce": 0.3,
+        "danger_death": 0.8,
+        "festivity_disguise": 0.2
+      },
+      "quote": {
+        "quote": "You cry against the noble senate, who,",
+        "speaker": "MARCIUS",
+        "act_scene": "1.1.183",
+        "why": "Senate and citizenry clash at the seat of nations."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0661",
+            "name": "United Nations",
+            "borough": "Manhattan",
+            "distance": 0.6184,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 127m shore, 0% park, 1% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.6184
+            },
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.636
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.6966
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0102",
+            "name": "Tribeca-Civic Center",
+            "borough": "Manhattan",
+            "distance": 0.636,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 1490m shore, 5% park, 12% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.6184
+            },
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.636
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.6966
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Cymbeline",
+      "csv_name": "Cymbeline",
+      "one_line": "British king, a chastity wager, Welsh wilds, and Roman war.",
+      "scores": {
+        "water_coast": 0.2,
+        "green_wild": 0.6,
+        "civic_power": 0.7,
+        "commerce": 0.3,
+        "danger_death": 0.6,
+        "festivity_disguise": 0.7
+      },
+      "quote": {
+        "quote": "All's well, sir: take my power i' the court",
+        "speaker": "IMOGEN",
+        "act_scene": "1.6.204",
+        "why": "Court and power in a downtown civic seat."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK0202",
+            "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+            "borough": "Brooklyn",
+            "distance": 0.5646,
+            "confidence": 1.0,
+            "one_line": "Brooklyn civic/institutional area \u2014 1675m shore, 8% park, 17% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.5646
+            },
+            {
+              "nta2020": "MN0901",
+              "name": "Morningside Heights",
+              "borough": "Manhattan",
+              "distance": 0.6176
+            },
+            {
+              "nta2020": "BK1771",
+              "name": "Holy Cross Cemetery",
+              "borough": "Brooklyn",
+              "distance": 0.6559
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BK0471",
+            "name": "The Evergreens Cemetery",
+            "borough": "Brooklyn",
+            "distance": 0.6559,
+            "confidence": 1.0,
+            "one_line": "Brooklyn somber area \u2014 0m shore, 1% park, 38% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.5646
+            },
+            {
+              "nta2020": "MN0901",
+              "name": "Morningside Heights",
+              "borough": "Manhattan",
+              "distance": 0.6176
+            },
+            {
+              "nta2020": "BK1771",
+              "name": "Holy Cross Cemetery",
+              "borough": "Brooklyn",
+              "distance": 0.6559
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Hamlet",
+      "csv_name": "Hamlet",
+      "one_line": "A prince feigns madness to avenge his father in a rotten court.",
+      "scores": {
+        "water_coast": 0.4,
+        "green_wild": 0.1,
+        "civic_power": 0.8,
+        "commerce": 0.1,
+        "danger_death": 1.0,
+        "festivity_disguise": 0.5
+      },
+      "quote": {
+        "quote": "The graves stood tenantless and the sheeted dead",
+        "speaker": "HORATIO",
+        "act_scene": "1.1.128",
+        "why": "Graves and sheeted dead for a grim river island."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "QN0151",
+            "name": "Rikers Island",
+            "borough": "Bronx",
+            "distance": 0.7588,
+            "confidence": 1.0,
+            "one_line": "Bronx somber area \u2014 4494m shore, 0% park, 30% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "QN0151",
+              "name": "Rikers Island",
+              "borough": "Bronx",
+              "distance": 0.7588
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.8305
+            },
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.8747
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "QN0761",
+            "name": "Fort Totten",
+            "borough": "Queens",
+            "distance": 0.9529,
+            "confidence": 0.681,
+            "one_line": "Queens waterfront area \u2014 3575m shore, 42% park, 34% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "QN0151",
+              "name": "Rikers Island",
+              "borough": "Bronx",
+              "distance": 0.7588
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.8305
+            },
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.8747
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Henry IV",
+      "csv_name": "Henry IV",
+      "one_line": "Tavern riot and rebellion as a prince readies to be king.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 0.2,
+        "civic_power": 0.8,
+        "commerce": 0.4,
+        "danger_death": 0.7,
+        "festivity_disguise": 0.8
+      },
+      "quote": {
+        "quote": "this dagger my sceptre, and this cushion my crown.",
+        "speaker": "FALSTAFF",
+        "act_scene": "2.4.362",
+        "why": "Tavern mock-royalty in a civic downtown setting."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK0202",
+            "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+            "borough": "Brooklyn",
+            "distance": 0.5366,
+            "confidence": 1.0,
+            "one_line": "Brooklyn civic/institutional area \u2014 1675m shore, 8% park, 17% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.5366
+            },
+            {
+              "nta2020": "MN0202",
+              "name": "Greenwich Village",
+              "borough": "Manhattan",
+              "distance": 0.5952
+            },
+            {
+              "nta2020": "MN0302",
+              "name": "Lower East Side",
+              "borough": "Manhattan",
+              "distance": 0.6099
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0302",
+            "name": "Lower East Side",
+            "borough": "Manhattan",
+            "distance": 0.6099,
+            "confidence": 1.0,
+            "one_line": "Manhattan nightlife/festive area \u2014 1322m shore, 15% park, 36% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.5366
+            },
+            {
+              "nta2020": "MN0202",
+              "name": "Greenwich Village",
+              "borough": "Manhattan",
+              "distance": 0.5952
+            },
+            {
+              "nta2020": "MN0302",
+              "name": "Lower East Side",
+              "borough": "Manhattan",
+              "distance": 0.6099
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Henry V",
+      "csv_name": "Henry V",
+      "one_line": "A king crosses the Channel to win France at Agincourt.",
+      "scores": {
+        "water_coast": 0.4,
+        "green_wild": 0.1,
+        "civic_power": 1.0,
+        "commerce": 0.1,
+        "danger_death": 0.8,
+        "festivity_disguise": 0.4
+      },
+      "quote": {
+        "quote": "A kingdom for a stage, princes to act",
+        "speaker": "Chorus",
+        "act_scene": "1.0.3",
+        "why": "A kingdom for a stage by the grand concourse."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BX0401",
+            "name": "Concourse-Concourse Village",
+            "borough": "Bronx",
+            "distance": 0.7239,
+            "confidence": 1.0,
+            "one_line": "Bronx civic/institutional area \u2014 1498m shore, 8% park, 18% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.7239
+            },
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.7613
+            },
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.7631
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BX0401",
+            "name": "Concourse-Concourse Village",
+            "borough": "Bronx",
+            "distance": 0.7239,
+            "confidence": 1.0,
+            "one_line": "Bronx civic/institutional area \u2014 1498m shore, 8% park, 18% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.7239
+            },
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.7613
+            },
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.7631
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Henry VI Part 1",
+      "csv_name": "Henry VI Part 1",
+      "one_line": "English losses in France and the rose-plucking seed of civil war.",
+      "scores": {
+        "water_coast": 0.1,
+        "green_wild": 0.3,
+        "civic_power": 0.9,
+        "commerce": 0.1,
+        "danger_death": 0.8,
+        "festivity_disguise": 0.2
+      },
+      "quote": {
+        "quote": "He was a king bless'd of the King of kings.",
+        "speaker": "OF WINCHESTER",
+        "act_scene": "1.1.29",
+        "why": "Kings and realms invoked at the parliament of nations."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0661",
+            "name": "United Nations",
+            "borough": "Manhattan",
+            "distance": 0.6385,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 127m shore, 0% park, 1% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.6385
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.6642
+            },
+            {
+              "nta2020": "QN0901",
+              "name": "Kew Gardens",
+              "borough": "Queens",
+              "distance": 0.6758
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "QN0901",
+            "name": "Kew Gardens",
+            "borough": "Queens",
+            "distance": 0.6758,
+            "confidence": 1.0,
+            "one_line": "Queens civic/institutional area \u2014 0m shore, 5% park, 19% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.6385
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.6642
+            },
+            {
+              "nta2020": "QN0901",
+              "name": "Kew Gardens",
+              "borough": "Queens",
+              "distance": 0.6758
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Henry VI Part 2",
+      "csv_name": "Henry VI Part 2",
+      "one_line": "Faction, a populist rebellion, and murder unravel a weak king's realm.",
+      "scores": {
+        "water_coast": 0.2,
+        "green_wild": 0.2,
+        "civic_power": 1.0,
+        "commerce": 0.3,
+        "danger_death": 0.9,
+        "festivity_disguise": 0.3
+      },
+      "quote": {
+        "quote": "With all the learned council of the realm,",
+        "speaker": "GLOUCESTER",
+        "act_scene": "1.1.89",
+        "why": "The realm's council convenes beside the city's courts."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0102",
+            "name": "Tribeca-Civic Center",
+            "borough": "Manhattan",
+            "distance": 0.7313,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 1490m shore, 5% park, 12% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.7313
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.7676
+            },
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.7826
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0702",
+            "name": "Upper West Side (Central)",
+            "borough": "Manhattan",
+            "distance": 0.8602,
+            "confidence": 1.0,
+            "one_line": "Manhattan commercial/dining area \u2014 2128m shore, 19% park, 31% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.7313
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.7676
+            },
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.7826
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Henry VI Part 3",
+      "csv_name": "Henry VI Part 3",
+      "one_line": "The Wars of the Roses at their most savage, the crown changing hands in blood.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 0.2,
+        "civic_power": 1.0,
+        "commerce": 0.05,
+        "danger_death": 1.0,
+        "festivity_disguise": 0.2
+      },
+      "quote": {
+        "quote": "Off with the crown, and with the crown his head,",
+        "speaker": "QUEEN MARGARET",
+        "act_scene": "1.4.107",
+        "why": "Crown seized and lost at the seat of warring nations."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0661",
+            "name": "United Nations",
+            "borough": "Manhattan",
+            "distance": 0.7717,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 127m shore, 0% park, 1% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.7717
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.8704
+            },
+            {
+              "nta2020": "QN0901",
+              "name": "Kew Gardens",
+              "borough": "Queens",
+              "distance": 0.8848
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0661",
+            "name": "United Nations",
+            "borough": "Manhattan",
+            "distance": 0.7717,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 127m shore, 0% park, 1% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.7717
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.8704
+            },
+            {
+              "nta2020": "QN0901",
+              "name": "Kew Gardens",
+              "borough": "Queens",
+              "distance": 0.8848
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Henry VIII",
+      "csv_name": "Henry VIII",
+      "one_line": "Tudor court pageantry, Wolsey's fall, and a queen set aside.",
+      "scores": {
+        "water_coast": 0.1,
+        "green_wild": 0.05,
+        "civic_power": 1.0,
+        "commerce": 0.2,
+        "danger_death": 0.5,
+        "festivity_disguise": 0.6
+      },
+      "quote": {
+        "quote": "Say, Henry King of England, come into the court.",
+        "speaker": "Scribe",
+        "act_scene": "2.4.8",
+        "why": "A royal trial summoned into court, by the civic center."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK0202",
+            "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+            "borough": "Brooklyn",
+            "distance": 0.5728,
+            "confidence": 1.0,
+            "one_line": "Brooklyn civic/institutional area \u2014 1675m shore, 8% park, 17% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.5728
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.6188
+            },
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.6454
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BK0202",
+            "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+            "borough": "Brooklyn",
+            "distance": 0.5728,
+            "confidence": 1.0,
+            "one_line": "Brooklyn civic/institutional area \u2014 1675m shore, 8% park, 17% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.5728
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.6188
+            },
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.6454
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Julius Caesar",
+      "csv_name": "Julius Caesar",
+      "one_line": "The Capitol assassination of a would-be king and the civil war it lights.",
+      "scores": {
+        "water_coast": 0.1,
+        "green_wild": 0.05,
+        "civic_power": 1.0,
+        "commerce": 0.1,
+        "danger_death": 0.9,
+        "festivity_disguise": 0.3
+      },
+      "quote": {
+        "quote": "Antony offer him a crown,--yet 'twas not a crown",
+        "speaker": "CASCA",
+        "act_scene": "1.2.242",
+        "why": "A crown thrice refused, at the house of nations."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0661",
+            "name": "United Nations",
+            "borough": "Manhattan",
+            "distance": 0.6932,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 127m shore, 0% park, 1% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.6932
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.7694
+            },
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.7941
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "QN1201",
+            "name": "Jamaica",
+            "borough": "Queens",
+            "distance": 0.8691,
+            "confidence": 0.92,
+            "one_line": "Queens civic/institutional area \u2014 0m shore, 2% park, 20% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.6932
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.7694
+            },
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.7941
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "King John",
+      "csv_name": "King John",
+      "one_line": "A contested crown, a French war, and a boy-prince's death.",
+      "scores": {
+        "water_coast": 0.2,
+        "green_wild": 0.1,
+        "civic_power": 0.9,
+        "commerce": 0.2,
+        "danger_death": 0.7,
+        "festivity_disguise": 0.2
+      },
+      "quote": {
+        "quote": "Here is my throne, bid kings come bow to it.",
+        "speaker": "CONSTANCE",
+        "act_scene": "3.1.75",
+        "why": "A throne raised high above the grand concourse."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BX0401",
+            "name": "Concourse-Concourse Village",
+            "borough": "Bronx",
+            "distance": 0.5287,
+            "confidence": 1.0,
+            "one_line": "Bronx civic/institutional area \u2014 1498m shore, 8% park, 18% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.5287
+            },
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.5315
+            },
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.533
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0701",
+            "name": "Upper West Side-Lincoln Square",
+            "borough": "Manhattan",
+            "distance": 0.6323,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 1345m shore, 9% park, 20% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.5287
+            },
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.5315
+            },
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.533
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "King Lear",
+      "csv_name": "King Lear",
+      "one_line": "A king divides his realm and is driven mad on a storm-lashed heath.",
+      "scores": {
+        "water_coast": 0.3,
+        "green_wild": 0.7,
+        "civic_power": 0.9,
+        "commerce": 0.05,
+        "danger_death": 1.0,
+        "festivity_disguise": 0.5
+      },
+      "quote": {
+        "quote": "Vengeance! plague! death! confusion!",
+        "speaker": "KING LEAR",
+        "act_scene": "2.4.101",
+        "why": "Lear's storm of wrath crowns the Heights."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0901",
+            "name": "Morningside Heights",
+            "borough": "Manhattan",
+            "distance": 0.9573,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 1094m shore, 28% park, 22% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0901",
+              "name": "Morningside Heights",
+              "borough": "Manhattan",
+              "distance": 0.9573
+            },
+            {
+              "nta2020": "BX1071",
+              "name": "Hart Island",
+              "borough": "Bronx",
+              "distance": 0.9659
+            },
+            {
+              "nta2020": "BX0491",
+              "name": "Yankee Stadium-Macombs Dam Park",
+              "borough": "Bronx",
+              "distance": 0.9898
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BX1071",
+            "name": "Hart Island",
+            "borough": "Bronx",
+            "distance": 0.9659,
+            "confidence": 1.0,
+            "one_line": "Bronx green/parkland area \u2014 2622m shore, 98% park, 0% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0901",
+              "name": "Morningside Heights",
+              "borough": "Manhattan",
+              "distance": 0.9573
+            },
+            {
+              "nta2020": "BX1071",
+              "name": "Hart Island",
+              "borough": "Bronx",
+              "distance": 0.9659
+            },
+            {
+              "nta2020": "BX0491",
+              "name": "Yankee Stadium-Macombs Dam Park",
+              "borough": "Bronx",
+              "distance": 0.9898
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Love's Labour's Lost",
+      "csv_name": "Loves Labours Lost",
+      "one_line": "Scholars forswear love, then tumble into wit, disguise, and wooing in a park.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 0.5,
+        "civic_power": 0.4,
+        "commerce": 0.1,
+        "danger_death": 0.15,
+        "festivity_disguise": 0.9
+      },
+      "quote": {
+        "quote": "For revels, dances, masks and merry hours",
+        "speaker": "BIRON",
+        "act_scene": "4.3.388",
+        "why": "Revels, masks, and merry hours for a bohemian quarter."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0202",
+            "name": "Greenwich Village",
+            "borough": "Manhattan",
+            "distance": 0.5617,
+            "confidence": 1.0,
+            "one_line": "Manhattan nightlife/festive area \u2014 0m shore, 5% park, 26% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0202",
+              "name": "Greenwich Village",
+              "borough": "Manhattan",
+              "distance": 0.5617
+            },
+            {
+              "nta2020": "MN0302",
+              "name": "Lower East Side",
+              "borough": "Manhattan",
+              "distance": 0.5823
+            },
+            {
+              "nta2020": "QN0301",
+              "name": "Jackson Heights",
+              "borough": "Queens",
+              "distance": 0.5858
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0202",
+            "name": "Greenwich Village",
+            "borough": "Manhattan",
+            "distance": 0.5617,
+            "confidence": 1.0,
+            "one_line": "Manhattan nightlife/festive area \u2014 0m shore, 5% park, 26% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0202",
+              "name": "Greenwich Village",
+              "borough": "Manhattan",
+              "distance": 0.5617
+            },
+            {
+              "nta2020": "MN0302",
+              "name": "Lower East Side",
+              "borough": "Manhattan",
+              "distance": 0.5823
+            },
+            {
+              "nta2020": "QN0301",
+              "name": "Jackson Heights",
+              "borough": "Queens",
+              "distance": 0.5858
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Macbeth",
+      "csv_name": "macbeth",
+      "one_line": "Witches' prophecy drives a thane to regicide and bloody tyranny.",
+      "scores": {
+        "water_coast": 0.1,
+        "green_wild": 0.6,
+        "civic_power": 0.9,
+        "commerce": 0.05,
+        "danger_death": 1.0,
+        "festivity_disguise": 0.4
+      },
+      "quote": {
+        "quote": "It will have blood, they say, blood will have blood:",
+        "speaker": "MACBETH",
+        "act_scene": "3.4.145",
+        "why": "Blood will have blood, above the city heights."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0901",
+            "name": "Morningside Heights",
+            "borough": "Manhattan",
+            "distance": 0.902,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 1094m shore, 28% park, 22% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0901",
+              "name": "Morningside Heights",
+              "borough": "Manhattan",
+              "distance": 0.902
+            },
+            {
+              "nta2020": "BX1271",
+              "name": "Woodlawn Cemetery",
+              "borough": "Bronx",
+              "distance": 0.9235
+            },
+            {
+              "nta2020": "BX0491",
+              "name": "Yankee Stadium-Macombs Dam Park",
+              "borough": "Bronx",
+              "distance": 0.9304
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BX0491",
+            "name": "Yankee Stadium-Macombs Dam Park",
+            "borough": "Bronx",
+            "distance": 0.9304,
+            "confidence": 1.0,
+            "one_line": "Bronx green/parkland area \u2014 0m shore, 77% park, 9% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0901",
+              "name": "Morningside Heights",
+              "borough": "Manhattan",
+              "distance": 0.902
+            },
+            {
+              "nta2020": "BX1271",
+              "name": "Woodlawn Cemetery",
+              "borough": "Bronx",
+              "distance": 0.9235
+            },
+            {
+              "nta2020": "BX0491",
+              "name": "Yankee Stadium-Macombs Dam Park",
+              "borough": "Bronx",
+              "distance": 0.9304
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Measure for Measure",
+      "csv_name": "Measure for measure",
+      "one_line": "A disguised Duke tests a puritan deputy amid Vienna's brothels and prisons.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 0.05,
+        "civic_power": 0.8,
+        "commerce": 0.4,
+        "danger_death": 0.6,
+        "festivity_disguise": 0.8
+      },
+      "quote": {
+        "quote": "My absolute power and place here in Vienna,",
+        "speaker": "DUKE VINCENTIO",
+        "act_scene": "1.3.14",
+        "why": "Absolute power and place, in a civic downtown."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK0202",
+            "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+            "borough": "Brooklyn",
+            "distance": 0.4863,
+            "confidence": 1.0,
+            "one_line": "Brooklyn civic/institutional area \u2014 1675m shore, 8% park, 17% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.4863
+            },
+            {
+              "nta2020": "MN0502",
+              "name": "Midtown-Times Square",
+              "borough": "Manhattan",
+              "distance": 0.5338
+            },
+            {
+              "nta2020": "MN0202",
+              "name": "Greenwich Village",
+              "borough": "Manhattan",
+              "distance": 0.5439
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0502",
+            "name": "Midtown-Times Square",
+            "borough": "Manhattan",
+            "distance": 0.5338,
+            "confidence": 1.0,
+            "one_line": "Manhattan nightlife/festive area \u2014 0m shore, 2% park, 52% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.4863
+            },
+            {
+              "nta2020": "MN0502",
+              "name": "Midtown-Times Square",
+              "borough": "Manhattan",
+              "distance": 0.5338
+            },
+            {
+              "nta2020": "MN0202",
+              "name": "Greenwich Village",
+              "borough": "Manhattan",
+              "distance": 0.5439
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "The Merchant of Venice",
+      "csv_name": "Merchant of Venice",
+      "one_line": "A merchant's sea-ventures, a deadly bond, and a cross-dressed courtroom rescue.",
+      "scores": {
+        "water_coast": 0.6,
+        "green_wild": 0.2,
+        "civic_power": 0.5,
+        "commerce": 1.0,
+        "danger_death": 0.5,
+        "festivity_disguise": 0.7
+      },
+      "quote": {
+        "quote": "will buy with you, sell with you, talk with you,",
+        "speaker": "SHYLOCK",
+        "act_scene": "1.3.31",
+        "why": "Buying and selling for a bustling commercial waterfront."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0402",
+            "name": "Hell's Kitchen",
+            "borough": "Manhattan",
+            "distance": 0.5044,
+            "confidence": 1.0,
+            "one_line": "Manhattan nightlife/festive area \u2014 4318m shore, 2% park, 50% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0402",
+              "name": "Hell's Kitchen",
+              "borough": "Manhattan",
+              "distance": 0.5044
+            },
+            {
+              "nta2020": "MN0203",
+              "name": "West Village",
+              "borough": "Manhattan",
+              "distance": 0.5766
+            },
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.6667
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0203",
+            "name": "West Village",
+            "borough": "Manhattan",
+            "distance": 0.5766,
+            "confidence": 1.0,
+            "one_line": "Manhattan nightlife/festive area \u2014 2872m shore, 2% park, 44% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0402",
+              "name": "Hell's Kitchen",
+              "borough": "Manhattan",
+              "distance": 0.5044
+            },
+            {
+              "nta2020": "MN0203",
+              "name": "West Village",
+              "borough": "Manhattan",
+              "distance": 0.5766
+            },
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.6667
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "The Merry Wives of Windsor",
+      "csv_name": "Merry Wives of Windsor",
+      "one_line": "Small-town wives outwit Falstaff with pranks, a laundry basket, and a forest hoax.",
+      "scores": {
+        "water_coast": 0.2,
+        "green_wild": 0.4,
+        "civic_power": 0.2,
+        "commerce": 0.5,
+        "danger_death": 0.1,
+        "festivity_disguise": 0.9
+      },
+      "quote": {
+        "quote": "Nay, daughter, carry the wine in, we'll drink within.",
+        "speaker": "PAGE",
+        "act_scene": "1.1.165",
+        "why": "Wine and good cheer for a nightlife neighborhood."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK0102",
+            "name": "Williamsburg",
+            "borough": "Brooklyn",
+            "distance": 0.3457,
+            "confidence": 1.0,
+            "one_line": "Brooklyn nightlife/festive area \u2014 1272m shore, 11% park, 16% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0102",
+              "name": "Williamsburg",
+              "borough": "Brooklyn",
+              "distance": 0.3457
+            },
+            {
+              "nta2020": "MN0302",
+              "name": "Lower East Side",
+              "borough": "Manhattan",
+              "distance": 0.3749
+            },
+            {
+              "nta2020": "MN0202",
+              "name": "Greenwich Village",
+              "borough": "Manhattan",
+              "distance": 0.4266
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BK0102",
+            "name": "Williamsburg",
+            "borough": "Brooklyn",
+            "distance": 0.3457,
+            "confidence": 1.0,
+            "one_line": "Brooklyn nightlife/festive area \u2014 1272m shore, 11% park, 16% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0102",
+              "name": "Williamsburg",
+              "borough": "Brooklyn",
+              "distance": 0.3457
+            },
+            {
+              "nta2020": "MN0302",
+              "name": "Lower East Side",
+              "borough": "Manhattan",
+              "distance": 0.3749
+            },
+            {
+              "nta2020": "MN0202",
+              "name": "Greenwich Village",
+              "borough": "Manhattan",
+              "distance": 0.4266
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Much Ado About Nothing",
+      "csv_name": "Much Ado about nothing",
+      "one_line": "Masked revels and overheard tricks make and nearly break two Messina courtships.",
+      "scores": {
+        "water_coast": 0.2,
+        "green_wild": 0.2,
+        "civic_power": 0.3,
+        "commerce": 0.1,
+        "danger_death": 0.4,
+        "festivity_disguise": 0.9
+      },
+      "quote": {
+        "quote": "burden: do you sing it, and I'll dance it.",
+        "speaker": "MARGARET",
+        "act_scene": "3.4.41",
+        "why": "Sing it and dance it, in a nightlife quarter."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK0402",
+            "name": "Bushwick (East)",
+            "borough": "Brooklyn",
+            "distance": 0.4455,
+            "confidence": 0.962,
+            "one_line": "Brooklyn nightlife/festive area \u2014 0m shore, 2% park, 30% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0402",
+              "name": "Bushwick (East)",
+              "borough": "Brooklyn",
+              "distance": 0.4455
+            },
+            {
+              "nta2020": "BK0102",
+              "name": "Williamsburg",
+              "borough": "Brooklyn",
+              "distance": 0.4533
+            },
+            {
+              "nta2020": "QN0301",
+              "name": "Jackson Heights",
+              "borough": "Queens",
+              "distance": 0.4606
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BK0402",
+            "name": "Bushwick (East)",
+            "borough": "Brooklyn",
+            "distance": 0.4455,
+            "confidence": 0.962,
+            "one_line": "Brooklyn nightlife/festive area \u2014 0m shore, 2% park, 30% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0402",
+              "name": "Bushwick (East)",
+              "borough": "Brooklyn",
+              "distance": 0.4455
+            },
+            {
+              "nta2020": "BK0102",
+              "name": "Williamsburg",
+              "borough": "Brooklyn",
+              "distance": 0.4533
+            },
+            {
+              "nta2020": "QN0301",
+              "name": "Jackson Heights",
+              "borough": "Queens",
+              "distance": 0.4606
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Othello",
+      "csv_name": "Othello",
+      "one_line": "A Moorish general, posted to a sea-fort, is poisoned into murderous jealousy.",
+      "scores": {
+        "water_coast": 0.7,
+        "green_wild": 0.05,
+        "civic_power": 0.6,
+        "commerce": 0.2,
+        "danger_death": 0.9,
+        "festivity_disguise": 0.4
+      },
+      "quote": {
+        "quote": "Though in the trade of war I have slain men,",
+        "speaker": "IAGO",
+        "act_scene": "1.2.1",
+        "why": "A soldier's trade of war, on an island fortress-prison."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "QN0151",
+            "name": "Rikers Island",
+            "borough": "Bronx",
+            "distance": 0.4721,
+            "confidence": 1.0,
+            "one_line": "Bronx somber area \u2014 4494m shore, 0% park, 30% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "QN0151",
+              "name": "Rikers Island",
+              "borough": "Bronx",
+              "distance": 0.4721
+            },
+            {
+              "nta2020": "SI0101",
+              "name": "St. George-New Brighton",
+              "borough": "Staten Island",
+              "distance": 0.6739
+            },
+            {
+              "nta2020": "MN0401",
+              "name": "Chelsea-Hudson Yards",
+              "borough": "Manhattan",
+              "distance": 0.7411
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "QN0151",
+            "name": "Rikers Island",
+            "borough": "Bronx",
+            "distance": 0.4721,
+            "confidence": 1.0,
+            "one_line": "Bronx somber area \u2014 4494m shore, 0% park, 30% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "QN0151",
+              "name": "Rikers Island",
+              "borough": "Bronx",
+              "distance": 0.4721
+            },
+            {
+              "nta2020": "SI0101",
+              "name": "St. George-New Brighton",
+              "borough": "Staten Island",
+              "distance": 0.6739
+            },
+            {
+              "nta2020": "MN0401",
+              "name": "Chelsea-Hudson Yards",
+              "borough": "Manhattan",
+              "distance": 0.7411
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Pericles",
+      "csv_name": "Pericles",
+      "one_line": "A prince storm-tossed across the seas loses and refinds wife and daughter.",
+      "scores": {
+        "water_coast": 1.0,
+        "green_wild": 0.1,
+        "civic_power": 0.5,
+        "commerce": 0.4,
+        "danger_death": 0.6,
+        "festivity_disguise": 0.5
+      },
+      "quote": {
+        "quote": "Wash'd me from shore to shore, and left me breath",
+        "speaker": "PERICLES",
+        "act_scene": "2.1.6",
+        "why": "Washed from shore to shore, fit for a river island."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0801",
+            "name": "Upper East Side-Lenox Hill-Roosevelt Island",
+            "borough": "Manhattan",
+            "distance": 0.3616,
+            "confidence": 1.0,
+            "one_line": "Manhattan waterfront area \u2014 7482m shore, 2% park, 29% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0801",
+              "name": "Upper East Side-Lenox Hill-Roosevelt Island",
+              "borough": "Manhattan",
+              "distance": 0.3616
+            },
+            {
+              "nta2020": "MN0401",
+              "name": "Chelsea-Hudson Yards",
+              "borough": "Manhattan",
+              "distance": 0.466
+            },
+            {
+              "nta2020": "BK0702",
+              "name": "Sunset Park (West)",
+              "borough": "Brooklyn",
+              "distance": 0.4847
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0801",
+            "name": "Upper East Side-Lenox Hill-Roosevelt Island",
+            "borough": "Manhattan",
+            "distance": 0.3616,
+            "confidence": 1.0,
+            "one_line": "Manhattan waterfront area \u2014 7482m shore, 2% park, 29% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0801",
+              "name": "Upper East Side-Lenox Hill-Roosevelt Island",
+              "borough": "Manhattan",
+              "distance": 0.3616
+            },
+            {
+              "nta2020": "MN0401",
+              "name": "Chelsea-Hudson Yards",
+              "borough": "Manhattan",
+              "distance": 0.466
+            },
+            {
+              "nta2020": "BK0702",
+              "name": "Sunset Park (West)",
+              "borough": "Brooklyn",
+              "distance": 0.4847
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Richard II",
+      "csv_name": "Richard II",
+      "one_line": "A poet-king loses his crown, his garden-realm, and finally his life.",
+      "scores": {
+        "water_coast": 0.3,
+        "green_wild": 0.4,
+        "civic_power": 1.0,
+        "commerce": 0.1,
+        "danger_death": 0.6,
+        "festivity_disguise": 0.2
+      },
+      "quote": {
+        "quote": "This royal throne of kings, this scepter'd isle,",
+        "speaker": "JOHN OF GAUNT",
+        "act_scene": "2.1.40",
+        "why": "'This sceptred isle' for the world's house of states."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0661",
+            "name": "United Nations",
+            "borough": "Manhattan",
+            "distance": 0.6184,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 127m shore, 0% park, 1% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.6184
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.6275
+            },
+            {
+              "nta2020": "MN0901",
+              "name": "Morningside Heights",
+              "borough": "Manhattan",
+              "distance": 0.6606
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0901",
+            "name": "Morningside Heights",
+            "borough": "Manhattan",
+            "distance": 0.6606,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 1094m shore, 28% park, 22% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.6184
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.6275
+            },
+            {
+              "nta2020": "MN0901",
+              "name": "Morningside Heights",
+              "borough": "Manhattan",
+              "distance": 0.6606
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Richard III",
+      "csv_name": "Richard III",
+      "one_line": "A deformed schemer murders his way to the crown and falls at Bosworth.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 0.1,
+        "civic_power": 1.0,
+        "commerce": 0.05,
+        "danger_death": 1.0,
+        "festivity_disguise": 0.5
+      },
+      "quote": {
+        "quote": "The slaughter of the prince that owed that crown,",
+        "speaker": "QUEEN ELIZABETH",
+        "act_scene": "4.4.142",
+        "why": "Crown and slaughter, at the seat of nations."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0661",
+            "name": "United Nations",
+            "borough": "Manhattan",
+            "distance": 0.8744,
+            "confidence": 1.0,
+            "one_line": "Manhattan civic/institutional area \u2014 127m shore, 0% park, 1% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.8744
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.9071
+            },
+            {
+              "nta2020": "QN0901",
+              "name": "Kew Gardens",
+              "borough": "Queens",
+              "distance": 0.9288
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "QN0707",
+            "name": "Flushing-Willets Point",
+            "borough": "Queens",
+            "distance": 1.029,
+            "confidence": 0.695,
+            "one_line": "Queens civic/institutional area \u2014 978m shore, 6% park, 24% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0661",
+              "name": "United Nations",
+              "borough": "Manhattan",
+              "distance": 0.8744
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.9071
+            },
+            {
+              "nta2020": "QN0901",
+              "name": "Kew Gardens",
+              "borough": "Queens",
+              "distance": 0.9288
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Romeo and Juliet",
+      "csv_name": "Romeo and Juliet",
+      "one_line": "Two feuding houses' children love, marry in secret, and die in a Verona tomb.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 0.3,
+        "civic_power": 0.4,
+        "commerce": 0.2,
+        "danger_death": 0.9,
+        "festivity_disguise": 0.7
+      },
+      "quote": {
+        "quote": "Is death mis-term'd: calling death banishment,",
+        "speaker": "ROMEO",
+        "act_scene": "3.3.22",
+        "why": "Death by any name, for a hillside cemetery."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK1771",
+            "name": "Holy Cross Cemetery",
+            "borough": "Brooklyn",
+            "distance": 0.5421,
+            "confidence": 1.0,
+            "one_line": "Brooklyn somber area \u2014 0m shore, 0% park, 38% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK1771",
+              "name": "Holy Cross Cemetery",
+              "borough": "Brooklyn",
+              "distance": 0.5421
+            },
+            {
+              "nta2020": "BK0471",
+              "name": "The Evergreens Cemetery",
+              "borough": "Brooklyn",
+              "distance": 0.5421
+            },
+            {
+              "nta2020": "BK0571",
+              "name": "Highland Park-Cypress Hills Cemeteries (South)",
+              "borough": "Brooklyn",
+              "distance": 0.5424
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BK1771",
+            "name": "Holy Cross Cemetery",
+            "borough": "Brooklyn",
+            "distance": 0.5421,
+            "confidence": 1.0,
+            "one_line": "Brooklyn somber area \u2014 0m shore, 0% park, 38% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK1771",
+              "name": "Holy Cross Cemetery",
+              "borough": "Brooklyn",
+              "distance": 0.5421
+            },
+            {
+              "nta2020": "BK0471",
+              "name": "The Evergreens Cemetery",
+              "borough": "Brooklyn",
+              "distance": 0.5421
+            },
+            {
+              "nta2020": "BK0571",
+              "name": "Highland Park-Cypress Hills Cemeteries (South)",
+              "borough": "Brooklyn",
+              "distance": 0.5424
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "The Taming of the Shrew",
+      "csv_name": "Taming of the Shrew",
+      "one_line": "A wooing-by-disguise farce and a dowry market in mercantile Padua.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 0.1,
+        "civic_power": 0.2,
+        "commerce": 0.6,
+        "danger_death": 0.1,
+        "festivity_disguise": 0.9
+      },
+      "quote": {
+        "quote": "Go to the feast, revel and domineer,",
+        "speaker": "PETRUCHIO",
+        "act_scene": "3.2.226",
+        "why": "Feast, revel, and domineer in a party district."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK0102",
+            "name": "Williamsburg",
+            "borough": "Brooklyn",
+            "distance": 0.2558,
+            "confidence": 1.0,
+            "one_line": "Brooklyn nightlife/festive area \u2014 1272m shore, 11% park, 16% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0102",
+              "name": "Williamsburg",
+              "borough": "Brooklyn",
+              "distance": 0.2558
+            },
+            {
+              "nta2020": "BK0401",
+              "name": "Bushwick (West)",
+              "borough": "Brooklyn",
+              "distance": 0.2739
+            },
+            {
+              "nta2020": "MN0303",
+              "name": "East Village",
+              "borough": "Manhattan",
+              "distance": 0.3126
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BK0401",
+            "name": "Bushwick (West)",
+            "borough": "Brooklyn",
+            "distance": 0.2739,
+            "confidence": 1.0,
+            "one_line": "Brooklyn nightlife/festive area \u2014 0m shore, 2% park, 36% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK0102",
+              "name": "Williamsburg",
+              "borough": "Brooklyn",
+              "distance": 0.2558
+            },
+            {
+              "nta2020": "BK0401",
+              "name": "Bushwick (West)",
+              "borough": "Brooklyn",
+              "distance": 0.2739
+            },
+            {
+              "nta2020": "MN0303",
+              "name": "East Village",
+              "borough": "Manhattan",
+              "distance": 0.3126
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "The Tempest",
+      "csv_name": "The Tempest",
+      "one_line": "A magician on a sea-girt isle raises a storm to reclaim his dukedom.",
+      "scores": {
+        "water_coast": 1.0,
+        "green_wild": 0.8,
+        "civic_power": 0.6,
+        "commerce": 0.1,
+        "danger_death": 0.4,
+        "festivity_disguise": 0.7
+      },
+      "quote": {
+        "quote": "To the shore, that o'er his wave-worn basis bow'd,",
+        "speaker": "FRANCISCO",
+        "act_scene": "2.1.116",
+        "why": "A wave-worn shore for a storm-haunted bay."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK5692",
+            "name": "Jamaica Bay (West)",
+            "borough": "Brooklyn",
+            "distance": 0.5851,
+            "confidence": 1.0,
+            "one_line": "Brooklyn waterfront area \u2014 12747m shore, 0% park, 38% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK5692",
+              "name": "Jamaica Bay (West)",
+              "borough": "Brooklyn",
+              "distance": 0.5851
+            },
+            {
+              "nta2020": "QN1491",
+              "name": "Rockaway Community Park",
+              "borough": "Queens",
+              "distance": 0.6305
+            },
+            {
+              "nta2020": "MN0191",
+              "name": "The Battery-Governors Island-Ellis Island-Liberty Island",
+              "borough": "Manhattan",
+              "distance": 0.7232
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BK5692",
+            "name": "Jamaica Bay (West)",
+            "borough": "Brooklyn",
+            "distance": 0.5851,
+            "confidence": 1.0,
+            "one_line": "Brooklyn waterfront area \u2014 12747m shore, 0% park, 38% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK5692",
+              "name": "Jamaica Bay (West)",
+              "borough": "Brooklyn",
+              "distance": 0.5851
+            },
+            {
+              "nta2020": "QN1491",
+              "name": "Rockaway Community Park",
+              "borough": "Queens",
+              "distance": 0.6305
+            },
+            {
+              "nta2020": "MN0191",
+              "name": "The Battery-Governors Island-Ellis Island-Liberty Island",
+              "borough": "Manhattan",
+              "distance": 0.7232
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Timon of Athens",
+      "csv_name": "Timon of Athens",
+      "one_line": "A lavish patron, bankrupted by false friends, turns misanthrope in the woods.",
+      "scores": {
+        "water_coast": 0.2,
+        "green_wild": 0.5,
+        "civic_power": 0.5,
+        "commerce": 0.9,
+        "danger_death": 0.6,
+        "festivity_disguise": 0.4
+      },
+      "quote": {
+        "quote": "Gold? yellow, glittering, precious gold? No, gods,",
+        "speaker": "TIMON",
+        "act_scene": "4.3.26",
+        "why": "Glittering gold and ruin, for an affluent avenue."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0702",
+            "name": "Upper West Side (Central)",
+            "borough": "Manhattan",
+            "distance": 0.6127,
+            "confidence": 1.0,
+            "one_line": "Manhattan commercial/dining area \u2014 2128m shore, 19% park, 31% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0702",
+              "name": "Upper West Side (Central)",
+              "borough": "Manhattan",
+              "distance": 0.6127
+            },
+            {
+              "nta2020": "MN0501",
+              "name": "Midtown South-Flatiron-Union Square",
+              "borough": "Manhattan",
+              "distance": 0.6174
+            },
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.6425
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0501",
+            "name": "Midtown South-Flatiron-Union Square",
+            "borough": "Manhattan",
+            "distance": 0.6174,
+            "confidence": 1.0,
+            "one_line": "Manhattan commercial/dining area \u2014 0m shore, 4% park, 41% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0702",
+              "name": "Upper West Side (Central)",
+              "borough": "Manhattan",
+              "distance": 0.6127
+            },
+            {
+              "nta2020": "MN0501",
+              "name": "Midtown South-Flatiron-Union Square",
+              "borough": "Manhattan",
+              "distance": 0.6174
+            },
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.6425
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Titus Andronicus",
+      "csv_name": "Titus Andronicus",
+      "one_line": "A Roman general's revenge spirals into mutilation and a cannibal feast.",
+      "scores": {
+        "water_coast": 0.05,
+        "green_wild": 0.4,
+        "civic_power": 0.8,
+        "commerce": 0.05,
+        "danger_death": 1.0,
+        "festivity_disguise": 0.4
+      },
+      "quote": {
+        "quote": "Oft have I digg'd up dead men from their graves,",
+        "speaker": "AARON",
+        "act_scene": "5.1.137",
+        "why": "Digging dead men from graves, for a great cemetery."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BX1271",
+            "name": "Woodlawn Cemetery",
+            "borough": "Bronx",
+            "distance": 0.8279,
+            "confidence": 1.0,
+            "one_line": "Bronx somber area \u2014 0m shore, 0% park, 30% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BX1271",
+              "name": "Woodlawn Cemetery",
+              "borough": "Bronx",
+              "distance": 0.8279
+            },
+            {
+              "nta2020": "QN0871",
+              "name": "Mount Hebron & Cedar Grove Cemeteries",
+              "borough": "Queens",
+              "distance": 0.8381
+            },
+            {
+              "nta2020": "QN1371",
+              "name": "Montefiore Cemetery",
+              "borough": "Queens",
+              "distance": 0.8381
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BX1271",
+            "name": "Woodlawn Cemetery",
+            "borough": "Bronx",
+            "distance": 0.8279,
+            "confidence": 1.0,
+            "one_line": "Bronx somber area \u2014 0m shore, 0% park, 30% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BX1271",
+              "name": "Woodlawn Cemetery",
+              "borough": "Bronx",
+              "distance": 0.8279
+            },
+            {
+              "nta2020": "QN0871",
+              "name": "Mount Hebron & Cedar Grove Cemeteries",
+              "borough": "Queens",
+              "distance": 0.8381
+            },
+            {
+              "nta2020": "QN1371",
+              "name": "Montefiore Cemetery",
+              "borough": "Queens",
+              "distance": 0.8381
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Troilus and Cressida",
+      "csv_name": "Troilus and Cressida",
+      "one_line": "Amid the Trojan siege, a soured love affair and a cynical, brutal war.",
+      "scores": {
+        "water_coast": 0.2,
+        "green_wild": 0.05,
+        "civic_power": 0.7,
+        "commerce": 0.4,
+        "danger_death": 0.7,
+        "festivity_disguise": 0.4
+      },
+      "quote": {
+        "quote": "And to this purpose speak. Kings, princes, lords!",
+        "speaker": "AENEAS",
+        "act_scene": "1.3.270",
+        "why": "Kings, princes, and lords in council, near the courts."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "MN0102",
+            "name": "Tribeca-Civic Center",
+            "borough": "Manhattan",
+            "distance": 0.4967,
+            "confidence": 0.921,
+            "one_line": "Manhattan civic/institutional area \u2014 1490m shore, 5% park, 12% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.4967
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.5136
+            },
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.516
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "MN0201",
+            "name": "SoHo-Little Italy-Hudson Square",
+            "borough": "Manhattan",
+            "distance": 0.5367,
+            "confidence": 0.82,
+            "one_line": "Manhattan commercial/dining area \u2014 1047m shore, 1% park, 34% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "MN0102",
+              "name": "Tribeca-Civic Center",
+              "borough": "Manhattan",
+              "distance": 0.4967
+            },
+            {
+              "nta2020": "BX0401",
+              "name": "Concourse-Concourse Village",
+              "borough": "Bronx",
+              "distance": 0.5136
+            },
+            {
+              "nta2020": "BK0202",
+              "name": "Downtown Brooklyn-DUMBO-Boerum Hill",
+              "borough": "Brooklyn",
+              "distance": 0.516
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "Twelfth Night",
+      "csv_name": "Twelfth Night",
+      "one_line": "Shipwrecked twins, a cross-dressed page, and carnival misrule on Illyria's coast.",
+      "scores": {
+        "water_coast": 0.6,
+        "green_wild": 0.2,
+        "civic_power": 0.2,
+        "commerce": 0.2,
+        "danger_death": 0.15,
+        "festivity_disguise": 1.0
+      },
+      "quote": {
+        "quote": "If music be the food of love, play on,",
+        "speaker": "DUKE ORSINO",
+        "act_scene": "1.1.1",
+        "why": "Music, love, and seaside revelry at the carnival shore."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "BK1302",
+            "name": "Coney Island-Sea Gate",
+            "borough": "Brooklyn",
+            "distance": 0.4432,
+            "confidence": 1.0,
+            "one_line": "Brooklyn waterfront area \u2014 8286m shore, 24% park, 5% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK1302",
+              "name": "Coney Island-Sea Gate",
+              "borough": "Brooklyn",
+              "distance": 0.4432
+            },
+            {
+              "nta2020": "MN0203",
+              "name": "West Village",
+              "borough": "Manhattan",
+              "distance": 0.5368
+            },
+            {
+              "nta2020": "MN0402",
+              "name": "Hell's Kitchen",
+              "borough": "Manhattan",
+              "distance": 0.539
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "BK1302",
+            "name": "Coney Island-Sea Gate",
+            "borough": "Brooklyn",
+            "distance": 0.4432,
+            "confidence": 1.0,
+            "one_line": "Brooklyn waterfront area \u2014 8286m shore, 24% park, 5% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "BK1302",
+              "name": "Coney Island-Sea Gate",
+              "borough": "Brooklyn",
+              "distance": 0.4432
+            },
+            {
+              "nta2020": "MN0203",
+              "name": "West Village",
+              "borough": "Manhattan",
+              "distance": 0.5368
+            },
+            {
+              "nta2020": "MN0402",
+              "name": "Hell's Kitchen",
+              "borough": "Manhattan",
+              "distance": 0.539
+            }
+          ]
+        }
+      }
+    },
+    {
+      "title": "The Two Gentlemen of Verona",
+      "csv_name": "Two Gentlemen of Verona",
+      "one_line": "Two friends, a journey to court, a forest of outlaws, and a page in disguise.",
+      "scores": {
+        "water_coast": 0.15,
+        "green_wild": 0.5,
+        "civic_power": 0.3,
+        "commerce": 0.2,
+        "danger_death": 0.2,
+        "festivity_disguise": 0.8
+      },
+      "quote": {
+        "quote": "Best sing it to the tune of 'Light o' love.'",
+        "speaker": "JULIA",
+        "act_scene": "1.2.86",
+        "why": "A light love-song for a leafy outer-borough corner."
+      },
+      "modes": {
+        "default": {
+          "match": {
+            "nta2020": "QN1306",
+            "name": "Springfield Gardens (South)-Brookville",
+            "borough": "Queens",
+            "distance": 0.4693,
+            "confidence": 0.951,
+            "one_line": "Queens nightlife/festive area \u2014 204m shore, 23% park, 36% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "QN1306",
+              "name": "Springfield Gardens (South)-Brookville",
+              "borough": "Queens",
+              "distance": 0.4693
+            },
+            {
+              "nta2020": "QN0301",
+              "name": "Jackson Heights",
+              "borough": "Queens",
+              "distance": 0.4833
+            },
+            {
+              "nta2020": "MN0302",
+              "name": "Lower East Side",
+              "borough": "Manhattan",
+              "distance": 0.4864
+            }
+          ]
+        },
+        "distinct": {
+          "match": {
+            "nta2020": "QN1306",
+            "name": "Springfield Gardens (South)-Brookville",
+            "borough": "Queens",
+            "distance": 0.4693,
+            "confidence": 0.951,
+            "one_line": "Queens nightlife/festive area \u2014 204m shore, 23% park, 36% food/drink POIs."
+          },
+          "top3": [
+            {
+              "nta2020": "QN1306",
+              "name": "Springfield Gardens (South)-Brookville",
+              "borough": "Queens",
+              "distance": 0.4693
+            },
+            {
+              "nta2020": "QN0301",
+              "name": "Jackson Heights",
+              "borough": "Queens",
+              "distance": 0.4833
+            },
+            {
+              "nta2020": "MN0302",
+              "name": "Lower East Side",
+              "borough": "Manhattan",
+              "distance": 0.4864
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

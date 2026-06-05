@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Shakespeare ↔ NYC — Neighborhood Matcher</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div id="sidebar">
+    <header>
+      <h1>Shakespeare <span>↔</span> NYC</h1>
+      <p class="sub">Every play matched to the New York neighborhood whose features, character and mood fit it best — scored on one 6-axis codebook, matched by distance.</p>
+    </header>
+    <div id="legend"></div>
+    <div id="modeToggle">
+      <button data-mode="default" class="active">Nearest match</button>
+      <button data-mode="distinct">One-to-one</button>
+      <span id="modeNote"></span>
+    </div>
+    <input id="search" type="search" placeholder="Filter plays…" autocomplete="off" />
+    <div id="playlist"></div>
+    <footer>262 NTAs · 36 plays · color = each area's dominant axis. Click a play or a neighborhood.</footer>
+  </div>
+  <div id="map"></div>
+  <aside id="detail" class="hidden">
+    <button id="detail-close" aria-label="Close">×</button>
+    <div id="detail-body"></div>
+  </aside>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
